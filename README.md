@@ -31,8 +31,11 @@ while True:
  ```
 ## OUTPUT
 Client
+
 <img width="666" height="139" alt="Screenshot 2026-05-27 054427" src="https://github.com/user-attachments/assets/d1f4fbfd-14da-4479-ae01-1a73a5c35435" />
+
 Server
+
 <img width="746" height="148" alt="Screenshot 2026-05-27 054439" src="https://github.com/user-attachments/assets/aff2f162-50b8-47bb-a689-12fac92dffce" />
 
 
